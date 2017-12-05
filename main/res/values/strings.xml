@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Team Tracker Client</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="connect">Connect</string>
+    <string name="connect_name">Name:</string>
+    <string name="connect_port">Port:</string>
+    <string name="edit_port">Enter port</string>
+    <string name="edit_name">Enter your login</string>
+    <string name="text_adderss">Address:</string>
+    <string name="edit_adderss">Enter address</string>
 </resources>

@@ -78,7 +78,7 @@ public class ListenServer implements Runnable {
                 else
                     socket.close();
             } catch (IOException e) {
-                System.out.println("Closing socket error!");
+                Log.e("Socket", "Closing socket error!");
                 System.exit(1);
             }
         }

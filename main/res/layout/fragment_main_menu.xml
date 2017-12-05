@@ -1,0 +1,22 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ndk_lesson.anovikov.teamtrackerclient.MainMenuFragment">
+
+    <TextView
+        android:id="@+id/text_coords"
+        android:layout_width="239dp"
+        android:layout_height="94dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="159dp"
+        android:text="@string/hello_blank_fragment"
+        android:textAlignment="center"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="137dp" />
+
+</android.support.constraint.ConstraintLayout>
